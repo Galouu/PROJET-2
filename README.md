@@ -11,7 +11,7 @@ Git clone:
 
 Go inside folder:
 
-> cd estate
+> cd P3-Full-Stack-portail-locataire
 
 Install dependencies:
 
@@ -30,7 +30,7 @@ Download Mockoon here: https://mockoon.com/download/
 
 After installing you could load the environement
 
-> ressources/mockoon/rental-oc.json` 
+> ressources/mockoon/rental-oc.json
 
 directly inside Mockoon 
 
